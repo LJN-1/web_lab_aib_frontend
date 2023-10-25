@@ -1,3 +1,5 @@
+#### HEAD
+```
 <!DOCTYPE html>
 <html lang="ru">
     <head>
@@ -5,9 +7,10 @@
     <title>The Life of ITUshnik</title>
     <link rel="shortcut icon" href="C:/web_lab_aib_frontend/labs/Lab_03_html_intro/imgs/playlist-favicon.ico">
     </head>
-
-    <body>
-    
+```
+#### BODY
+```
+    <body> 
 <h1 style="font-size: 31px;"><i>The Life of</i></h1>
 <h2 style="font-size: 31px;">ITUshnik</h2>
 <p>
@@ -18,6 +21,5 @@
 </p>
 <img src="C:/web_lab_aib_frontend/labs/Lab_03_html_intro/imgs/album.png" alt="cover" width="210 px">
     </body>
-
-
 </html>
+```
