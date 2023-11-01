@@ -1,5 +1,5 @@
 #### html fail
-···
+```
 <!DOCTYPE html>
 <html lang="ru">
     <head>
