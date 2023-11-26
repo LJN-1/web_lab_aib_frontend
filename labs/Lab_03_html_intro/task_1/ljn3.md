@@ -2,23 +2,26 @@
 ```
 <!DOCTYPE html>
 <html lang="ru">
+    
     <head>
-    <meta charset="UTF-8" />
-    <title>The Life of ITUshnik</title>
-    <link rel="shortcut icon" href="./playlist-favicon.ico">
+        <meta charset="UTF-8" />
+        <title>The Life of ITUshnik</title>
+        <link rel="shortcut icon" href="./playlist-favicon.ico">
     </head>
+    
     <body> 
-<h1 style="font-size: 31px;"><i>The Life of</i></h1>
-<h2 style="font-size: 31px;">ITUshnik</h2>
-<p>
-    <a href="https://music.yandex.ru/users/ya.indietronica/playlists/1013",style="target">Плейлист</a> для учёбы на чилле
-</p>
-<p>
-    Один раз послушал - семь раз забил
-</p>
-<img src="./album.png" alt="cover" width="210 px">
+        <h1 style="font-size: 31px;"><i>The Life of</i></h1>
+        <h2 style="font-size: 31px;">ITUshnik</h2>
+        <p>
+            <a href="https://music.yandex.ru/users/ya.indietronica/playlists/1013",style="target">Плейлист</a> для учёбы на чилле
+        </p>
+        <p>
+            Один раз послушал - семь раз забил
+        </p>
+        <img src="./album.png" alt="cover" width="210 px">
     </body>
 </html>
 ```
+
 ### открывающая страница сайта
 ![открывающая страница сайта](https://github.com/LJN-1/web_lab_aib_frontend/blob/main/labs/Lab_03_html_intro/imgs/result.png)
